@@ -1,0 +1,908 @@
+:root {
+    --nasa-dark-blue: #0F4260;
+    --blue-median: #2B80B9;
+    --gray-lightest: #f8f9fa;
+    --gray-lighter: #F3F5F7;
+    --gray-light: #E7EBEF;
+}
+
+
+body {
+    font-family: "open sans", Helvetica, Arial, sans-serif;
+    color: #222;
+}
+
+li {
+    padding-top: 8px;
+}
+
+.common-text {
+    font-size: 0.95em;
+    font-weight: lighter;
+}
+
+.footnote-text {
+    font-size: 0.75em;
+}
+
+div.pre-list-p p {
+    margin-bottom: 0.15em;
+}
+
+p.pre-list-p {
+    margin-bottom: 0.15em;
+}
+
+#app-header-full-width {
+    display: flex;
+    background-color: var(--gray-lightest);
+}
+
+.app-header-bookend {
+    flex: 1;
+    /* border-bottom: 1px solid #d6d6d6; */
+}
+
+#app-header {
+    flex: 0 0 auto;
+    padding: 15px 0px;
+    background-color: var(--gray-lightest);
+}
+
+#app-header-title span {
+    float: left;
+}
+
+#app-header-title-logo {
+    margin-right: 7px;
+}
+
+#app-header-title-logo img {
+    height: 45px;
+}
+
+#app-header-title-text {
+    margin: 0px;
+    font-size: 22px;
+    line-height: 1.3em;
+}
+
+#app-header-subtitle-text {
+    margin: 4px 0px 0px 2px;
+    font-size: 12px;
+    line-height: 1em;
+    font-weight: lighter;
+
+}
+
+.app-header-logo {
+    margin-left: 10px;
+}
+
+.app-header-uhslc-logo img {
+    height: 22px;
+}
+
+.app-header-nasa-logo a {
+    /* font-weight: lighter; */
+    color: #222;
+    text-decoration: none !important;
+}
+
+.app-header-nasa-logo a div {
+    /* float: left; */
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.app-header-nasa-logo img {
+    height: 25px;
+    margin-right: 2px;
+}
+
+#nasa-logo-text-top {
+    /* margin-top: 5px; */
+    font-size: 14px;
+}
+
+#nasa-logo-text-bottom {
+    font-size: 9px;
+}
+
+#app-header-logos-compact {
+    display: none;
+    visibility: hidden;
+}
+
+@media (max-width: 992px) {
+
+    #app-header-title-logo {
+        display: none;
+        visibility: hidden;
+    }
+
+    #app-header-logos-text {
+        display: none;
+        visibility: hidden;
+    }
+
+    #app-header-logos-compact {
+        display: block;
+        visibility: visible;
+    }
+
+    #app-header-title {
+        margin: 0px 0px 0px 10px;
+    }
+
+    #app-header-logos-compact div {
+        margin: 0px 10px 0px 0px;
+    }
+}
+
+.intro-modal-logo-flex {
+    /* margin-left: 10px; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.intro-modal-uhslc-logo img {
+    margin-top: 3px;
+    height: 29px;
+}
+
+.intro-modal-nasa-logo a {
+    font-weight: bolder;
+    font-size: 1.5em;
+    color: #222;
+    text-decoration: none !important;
+}
+
+.intro-modal-nasa-logo a div {
+    /* float: left; */
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.intro-modal-nasa-logo img {
+    height: 35px;
+    margin-right: 2px;
+}
+
+#intro-modal-title {
+    margin-top: 40px;
+    margin-bottom: 20px;
+    text-align: center !important;
+}
+
+#intro-modal-text {
+    margin-bottom: 25px;
+}
+
+#intro-modal-text p {
+    margin-bottom: 0;
+}
+
+.intro-modal-button {
+    background-color: var(--nasa-dark-blue) !important;
+}
+
+.dash-table-container .dash-spreadsheet-container .dash-spreadsheet-inner table {
+    font-size: 0.95em !important;
+    font-family: inherit !important;
+}
+
+/* .dash-table-container .dash-spreadsheet-container .dash-spreadsheet-inner table tr td {
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+} */
+
+/* .dash-table-container .dash-spreadsheet-container .dash-spreadsheet-inner table th div {
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+} */
+
+.table-footnote {
+    margin-top: 5px;
+    font-size: 0.8em;
+    font-weight: lighter;
+}
+
+.form-check-input:checked {
+    background-color: var(--nasa-dark-blue);
+    border-color: var(--nasa-dark-blue);
+}
+
+#app-container {
+    max-width: 100%;
+    margin-bottom: 75px;
+    /* background-color: var(--nasa-dark-blue); */
+}
+
+#app-page-container {
+    padding-top: 0px;
+}
+
+.app-page-section {
+    margin-bottom: 20px;
+    padding-bottom: 40px;
+    /* border-bottom: 1px solid var(--gray-light) */
+}
+
+#sticky-header {
+    z-index: 1000;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    background-color: white;
+}
+
+@media (max-width: 1200px) {
+    #sticky-header {
+        position: relative;
+    }
+}
+
+.modal p {
+    padding: 0px 20px;
+}
+
+.modal ul {
+    padding-left: 40px;
+    padding-right: 20px;
+}
+
+.modal ul p {
+    margin-bottom: 0.25em;
+    padding: 0;
+}
+
+.modal-highlight {
+    margin-bottom: 1em;
+    background-color: rgba(0, 114, 178, 0.15);
+    padding: 15px 0px 1px 0px;
+}
+
+/* STATION MAP */
+#stations-map-graph .modebar-container {
+    margin: 8px !important;
+}
+
+#stations-map-graph .modebar-group {
+    padding: 0 0 1px 0 !important;
+}
+
+#stations-map-graph .modebar-group .modebar-btn {
+    margin-top: -2px !important;
+}
+
+#app-options-container {
+    padding-top: 0px;
+    padding-bottom: 20px;
+}
+
+#app-options-row {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#app-options-row>div {
+    margin-top: 40px;
+}
+
+.app-options-dropdown .Select-control {
+    border: 0px solid black;
+    border-radius: 0px;
+    border-bottom: 1px solid #999;
+}
+
+.app-options-input {
+    border: 0px solid black;
+    border-radius: 0px;
+    border-bottom: 1px solid #999;
+}
+
+.app-options-info {
+    padding: 10px 0px 0px 0px;
+    font-size: 0.95em;
+    background-color: var(--gray-lightest);
+}
+
+.app-options-title {
+    padding: 0px 7px 0px 10px;
+}
+
+.app-options-title h6 {
+    margin-bottom: 0px;
+    font-size: 0.95em;
+}
+
+/* .app-options-title i {
+    font-size: 0.85em !important;
+} */
+.app-options-title .me-2 {
+    margin-right: 0 !important;
+}
+
+.app-options-detail {
+    padding: 0px 10px 0px 10px;
+    font-size: 0.8em;
+}
+
+.app-options-info .dash-table-container {
+    padding: 10px 0px 0px 0px;
+}
+
+.app-options-info .dash-table-container .dash-spreadsheet-container .dash-spreadsheet-inner table {
+    font-size: 0.95em;
+    font-family: inherit;
+}
+
+.app-options-info i {
+    float: right;
+    margin-right: 0px !important;
+}
+
+.irrelevant-option {
+    color: lightgray;
+}
+
+.irrelevant-option .app-options-dropdown .Select-control {
+    border-bottom: 1px solid lightgray;
+}
+
+.irrelevant-option .Select.is-disabled>.Select-control {
+    background-color: transparent;
+}
+
+.irrelevant-option .Select.has-value.Select--single>.Select-control .Select-value .Select-value-label,
+.Select.has-value.is-pseudo-focused.Select--single>.Select-control .Select-value .Select-value-label,
+.irrelevant-option input {
+    color: lightgray;
+}
+
+.info-button-picker {
+    margin: 0;
+    padding: 0;
+    color: black;
+    font-size: 0.85em;
+    line-height: 1;
+}
+
+.info-button-graph {
+    margin: 0;
+    padding: 0 0 0 20px;
+    color: black;
+    font-size: 0.7em;
+    line-height: 1;
+}
+
+.info-button:hover {
+    color: var(--blue-median);
+}
+
+#app-options-threshold,
+#app-options-scenario {
+    margin-bottom: 0px;
+    padding-bottom: 10px;
+}
+
+#get-started-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    min-height: 110px;
+    border: 1px solid #222;
+    background-color: var(--gray-lightest);
+}
+
+#get-started-container h3 {
+    margin-bottom: 0.25rem;
+}
+
+#get-started-container p {
+    margin-bottom: 0;
+    font-weight: lighter;
+}
+
+/* #get-started-content {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+} */
+
+.analysis-subtitle {
+    margin-top: 10px;
+}
+
+.analysis-content {
+    margin-top: 20px;
+}
+
+.sidebar {
+    background-color: var(--gray-lightest);
+    padding: 30px 40px;
+}
+
+.sidebar-title {
+    margin: 0px 0px 0px 0px !important;
+}
+
+.sidebar .graph-title {
+    margin-top: 0px !important;
+}
+
+#threshold-float div span input {
+    font-size: 1em !important;
+}
+
+#threshold-float div span b {
+    display: none !important;
+}
+
+#threshold-dropdown-container {
+    flex-grow: 2;
+}
+
+#threshold-dropdown-title {
+    background-color: white;
+}
+
+#app-tabs-full-width {
+    display: flex;
+    background-color: var(--gray-lightest);
+}
+
+#app-tabs-container {
+    flex: 0 0 auto;
+    padding: 0px;
+    background-color: var(--gray-lightest);
+}
+
+.app-tabs-bookend {
+    flex: 1;
+    border-bottom: 1px solid #d6d6d6;
+}
+
+#app-tabs {
+    margin-top: 0px;
+    /* border-bottom: 1px solid black; */
+}
+
+#app-tabs .tab {
+    padding: 10px;
+    background-color: var(--gray-lightest);
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+#app-tabs .tab:hover {
+    background-color: var(--gray-light);
+}
+
+#app-tabs .tab--selected {
+    background-color: white;
+    border-top: 3px solid var(--nasa-dark-blue);
+    border-left: 1px solid #d6d6d6;
+    border-right: 1px solid #d6d6d6;
+}
+
+#app-tabs .tab--selected:hover {
+    background-color: white;
+}
+
+#app-right-tab-space {
+    border-bottom: 1px solid #d6d6d6;
+}
+
+#app-pages {
+    padding-left: 20px;
+    /* border: 1px solid black !important; */
+}
+
+#app-pages div {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.app-page {
+    padding: 0px 20px 0px 20px;
+}
+
+.current-app-page {
+    display: block;
+}
+
+.hidden-app-page {
+    display: none;
+}
+
+.page-title {
+    margin: 0 !important;
+}
+
+.graph-title {
+    margin: 25px 0px 0px 0px !important;
+}
+
+.graph-subtitle {
+    margin: 8px 0px 0px 0px !important;
+}
+
+/* .graph-subtitle h6 {
+    margin-top: 5px !important;
+} */
+
+.graph-subtitle-float {
+    float: left;
+    padding-right: 25px;
+}
+
+.graph-subtitle-option {
+    font-weight: normal;
+}
+
+div#station-select {
+    margin: 0px 0px 15px 0px;
+    padding-top: 28px;
+}
+
+div#station-select .Select-value {
+    font-size: 42px;
+    line-height: 42px;
+}
+
+div#station-select .Select-input {
+    height: 48px;
+    font-size: 42px;
+    line-height: 42px;
+}
+
+div#station-select .Select-input input {
+    height: 48px;
+    line-height: 42px;
+    margin: -10px;
+    padding-left: 10px;
+}
+
+div#station-select .Select-control {
+    height: 48px;
+}
+
+div#station-select .Select-placeholder {
+    font-size: 42px;
+    line-height: 42px;
+}
+
+#station-select-title-container .form-switch,
+#show-map-toggle {
+    float: right;
+    margin-top: 1px;
+    margin-left: -20px;
+}
+
+#station-select-title {
+    float: left;
+}
+
+#show-map-toggle-container {
+    float: left;
+    /* margin-top: 26px; */
+}
+
+#show-map-toggle-label {
+    float: left;
+    padding-left: 10px;
+}
+
+#show-map-toggle-container .form-switch,
+#show-map-toggle {
+    float: left;
+    min-height: 0px;
+    margin-top: 1px;
+    margin-left: -14px;
+    margin-bottom: 0px;
+    padding-left: 1.75em;
+}
+
+#units-toggle-container {
+    float: right;
+    /* margin-top: 26px; */
+}
+
+#units-toggle-container .app-options-title {
+    padding: 0px 0px 0px 10px;
+}
+
+.units-toggle-label {
+    float: right;
+    font-size: 0.95em;
+    padding: 0px 10px 0px 10px;
+}
+
+#units-toggle-container .form-switch,
+#units-toggle {
+    float: right;
+    min-height: 0px;
+    margin-top: 1px;
+    margin-left: -14px;
+    margin-bottom: 0px;
+}
+
+#units-toggle-container .form-label {
+    display: none;
+}
+
+#slr-budget-year-input {
+    /* font-weight: bold; */
+    width: 60px;
+}
+
+#slr-summary {
+    padding-top: 1em;
+    /* background-color: var(--gray-lightest); */
+}
+
+#slr-summary .app-options-title {
+    padding-left: 10px;
+    margin-bottom: 0px;
+    /* font-size: 0.75em; */
+}
+
+#slr-summary .app-options-subtitle {
+    padding-left: 10px;
+    padding-bottom: 10px;
+    font-size: 0.8em;
+}
+
+#slr-summary .app-options-detail {
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+
+#slr-summary .dash-table-container .dash-spreadsheet-container .dash-spreadsheet-inner table {
+    font-family: inherit;
+}
+
+#slr-summary p {
+    font-weight: lighter;
+}
+
+#slr-summary-table {
+    padding-bottom: 10px;
+    font-size: 0.85em;
+}
+
+#slr-summary-table-description {
+    padding: 1.5em 1.5em 0.5em 1.5em;
+    background-color: var(--gray-lightest);
+    font-size: 0.75em;
+    font-weight: lighter;
+}
+
+#slr-summary-table-description p {
+    margin-bottom: 0px;
+}
+
+#slr-likelihood-statement {
+    margin: 1em 0em 0.5em 0em;
+    /* font-size: 0.95em; */
+    font-weight: lighter;
+}
+
+#slr-likelihood-statement p {
+    margin-bottom: 5px;
+}
+
+#slr-likelihood-bullets {
+    margin: 0.5em 0;
+    padding: 0.25em 0.25em 0.1em 0.25em;
+    background-color: var(--gray-lightest);
+    border-left: 5px solid var(--gray-light);
+}
+
+#slr-likelihood-notes {
+    margin-top: 0em;
+    font-size: 0.7em;
+    font-weight: lighter;
+}
+
+/* OBSERVED FLOODING PAGE */
+
+#coops-station-link {
+    text-decoration: none;
+}
+
+.analysis-highlight {
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: var(--gray-lightest);
+    border-left: 5px solid var(--gray-light);
+}
+
+.analysis-highlight p {
+    margin-bottom: 0;
+}
+
+.analysis-highlight ul {
+    margin-bottom: 0;
+}
+
+.analysis-highlight ul>li {
+    padding-top: 0.5em;
+}
+
+#extremes-sidebar-text {
+    font-size: 0.9em;
+    font-weight: lighter;
+}
+
+#extremes-sidebar-text p {
+    margin-bottom: 0;
+}
+
+#extremes-sidebar-text ul>li {
+    padding-top: 0.5em;
+}
+
+#extremes-sidebar-text ol>li {
+    padding-top: 0.5em;
+}
+
+#topten-table {
+    margin-top: 15px;
+    font-size: 0.9em;
+}
+
+#htf-yoi-title {
+    float: left;
+}
+
+#htf-yoi-toggle-container {
+    float: right;
+    /* margin-top: 26px; */
+}
+
+#htf-yoi-toggle-container .app-options-title {
+    padding: 0px 0px 0px 10px;
+}
+
+#htf-yoi-toggle-container .form-switch,
+#yoi-toggle {
+    float: right;
+    min-height: 0px;
+    margin-top: 1px;
+    margin-left: -14px;
+    margin-bottom: 0px;
+}
+
+#htf-yoi-toggle-container .form-label {
+    display: none;
+}
+
+#app-sidebar {
+    /* padding: 0px; */
+    background-color: var(--gray-lightest);
+    /* #C8D2D2 */
+}
+
+.nav-link {
+    color: #222;
+}
+
+.nav-link.active {
+    color: #222 !important;
+    background-color: #fff !important;
+    border: 0px !important;
+    border-left: 3px solid #222 !important;
+}
+
+#about-tabs-container,
+#about-content-container {
+    padding: 40px 0px;
+}
+
+@media (max-width: 767px) {
+
+    #about-tabs-container,
+    #about-content-container {
+        padding: 20px 0px;
+    }
+}
+
+#about-tabs-container {
+    /* border-right: var(--gray-light) solid 1px; */
+    border-bottom: var(--gray-light) solid 0px;
+}
+
+@media (max-width: 767px) {
+    #about-tabs-container {
+        border-right: var(--gray-light) solid 0px !important;
+        border-bottom: var(--gray-light) solid 1px !important;
+    }
+}
+
+#about-tabs .tab {
+    padding: 7px 10px;
+    background-color: transparent;
+    border-width: 0 !important;
+}
+
+@media (min-width: 768px) {
+    #about-tabs .tab {
+        text-align: left;
+    }
+}
+
+#about-tabs .tab--selected {
+    font-weight: bold;
+    color: var(--blue-median);
+}
+
+#about-tabs .tab:hover {
+    color: var(--blue-median);
+}
+
+.about-column {
+    padding-left: 40px;
+}
+
+@media (max-width: 767px) {
+    .about-column {
+        padding-left: 0px;
+    }
+}
+
+.about-tab-title {
+    margin-bottom: 0px;
+}
+
+.about-subsection {
+    padding: 30px 0px 10px 0px;
+    border-bottom: var(--gray-light) solid 1px;
+}
+
+.about-subsection-title {
+    margin-bottom: 0.65em;
+}
+
+#about-station-selector-img {
+    width: 100%;
+}
+
+#about-scn-thrsh-selector-img {
+    width: 46%;
+}
+
+.about-panel-img {
+    margin: 10px auto 20px auto;
+    width: 100%;
+    max-width: 400px;
+}
+
+.about-panel-img-caption {
+    padding: 0px 20px;
+    font-weight: lighter;
+    font-size: 0.85em;
+}
+
+.js-plotly-plot .plotly .main-svg .hoverlayer .hovertext>rect {
+    fill-opacity: 1 !important;
+}
+
+/* #about-nav-column {
+    z-index: 1000;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+} */
+
+/* #about-nav .nav-link.active {
+    background-color: var(--gray-lightest);
+} */

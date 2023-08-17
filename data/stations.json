@@ -1,0 +1,835 @@
+{
+    "8665530": {
+        "id": "8665530",
+        "name": "Charleston, SC",
+        "scn_name": "Charleston, SC",
+        "lat": 32.780833,
+        "lon": -79.923611
+    },
+    "9418767": {
+        "id": "9418767",
+        "name": "Humboldt Bay, CA",
+        "scn_name": "Humboldt Bay, CA",
+        "lat": 40.7663,
+        "lon": -124.2172
+    },
+    "8575512": {
+        "id": "8575512",
+        "name": "Annapolis, MD",
+        "scn_name": "Annapolis, MD",
+        "lat": 38.98328,
+        "lon": -76.4816
+    },
+    "9443090": {
+        "id": "9443090",
+        "name": "Neah Bay, WA",
+        "scn_name": "Neah Bay, WA",
+        "lat": 48.370278,
+        "lon": -124.601944
+    },
+    "9444900": {
+        "id": "9444900",
+        "name": "Port Townsend, WA",
+        "scn_name": "Port Townsend, WA",
+        "lat": 48.1129,
+        "lon": -122.7595
+    },
+    "9415144": {
+        "id": "9415144",
+        "name": "Port Chicago, CA",
+        "scn_name": "Port Chicago, CA",
+        "lat": 38.056,
+        "lon": -122.0395
+    },
+    "9410660": {
+        "id": "9410660",
+        "name": "Los Angeles, CA",
+        "scn_name": "Los Angeles, CA",
+        "lat": 33.719944,
+        "lon": -118.272861
+    },
+    "9415020": {
+        "id": "9415020",
+        "name": "Point Reyes, CA",
+        "scn_name": "Point Reyes, CA",
+        "lat": 37.994167,
+        "lon": -122.973611
+    },
+    "8774770": {
+        "id": "8774770",
+        "name": "Rockport, TX",
+        "scn_name": "Rockport, TX",
+        "lat": 28.0217,
+        "lon": -97.0467
+    },
+    "9451600": {
+        "id": "9451600",
+        "name": "Sitka, AK",
+        "scn_name": "Sitka, AK",
+        "lat": 57.051694,
+        "lon": -135.342
+    },
+    "8635750": {
+        "id": "8635750",
+        "name": "Lewisetta, VA",
+        "scn_name": "Lewisetta, VA",
+        "lat": 37.995278,
+        "lon": -76.464722
+    },
+    "8723214": {
+        "id": "8723214",
+        "name": "Virginia Key, FL",
+        "scn_name": "Virginia Key, FL",
+        "lat": 25.731667,
+        "lon": -80.161667
+    },
+    "8726520": {
+        "id": "8726520",
+        "name": "St. Petersburg, FL",
+        "scn_name": "St. Petersburg, FL",
+        "lat": 27.76061,
+        "lon": -82.6269
+    },
+    "9414750": {
+        "id": "9414750",
+        "name": "Alameda, CA",
+        "scn_name": "Alameda, CA",
+        "lat": 37.7717,
+        "lon": -122.3
+    },
+    "9435380": {
+        "id": "9435380",
+        "name": "South Beach, OR",
+        "scn_name": "South Beach, OR",
+        "lat": 44.6254,
+        "lon": -124.04494
+    },
+    "9454050": {
+        "id": "9454050",
+        "name": "Cordova, AK",
+        "scn_name": "Cordova, AK",
+        "lat": 60.5583,
+        "lon": -145.755
+    },
+    "8545240": {
+        "id": "8545240",
+        "name": "Philadelphia, PA",
+        "scn_name": "Philadelphia, PA",
+        "lat": 39.9333,
+        "lon": -75.141701
+    },
+    "9459450": {
+        "id": "9459450",
+        "name": "Sand Point, AK",
+        "scn_name": "Sand Point, AK",
+        "lat": 55.33172,
+        "lon": -160.5043
+    },
+    "9497645": {
+        "id": "9497645",
+        "name": "Prudhoe Bay, AK",
+        "scn_name": "Prudhoe Bay, AK",
+        "lat": 70.411389,
+        "lon": -148.531667
+    },
+    "8454000": {
+        "id": "8454000",
+        "name": "Providence, RI",
+        "scn_name": "Providence, RI",
+        "lat": 41.807098,
+        "lon": -71.401199
+    },
+    "8449130": {
+        "id": "8449130",
+        "name": "Nantucket Island, MA",
+        "scn_name": "Nantucket Island, MA",
+        "lat": 41.285278,
+        "lon": -70.09639
+    },
+    "9440910": {
+        "id": "9440910",
+        "name": "Toke Point, WA",
+        "scn_name": "Toke Point,WA",
+        "lat": 46.7075,
+        "lon": -123.966944
+    },
+    "9455760": {
+        "id": "9455760",
+        "name": "Nikiski, AK",
+        "scn_name": "Nikiski, AK",
+        "lat": 60.683333,
+        "lon": -151.398056
+    },
+    "8534720": {
+        "id": "8534720",
+        "name": "Atlantic City, NJ",
+        "scn_name": "Atlantic City, NJ",
+        "lat": 39.356667,
+        "lon": -74.418053
+    },
+    "1615680": {
+        "id": "1615680",
+        "name": "Kahului, HI",
+        "scn_name": "Kahului, HI",
+        "lat": 20.895,
+        "lon": -156.476694
+    },
+    "8727520": {
+        "id": "8727520",
+        "name": "Cedar Key, FL",
+        "scn_name": "Cedar Key, FL",
+        "lat": 29.135,
+        "lon": -83.0317
+    },
+    "9414290": {
+        "id": "9414290",
+        "name": "San Francisco, CA",
+        "scn_name": "San Francisco, CA",
+        "lat": 37.806306,
+        "lon": -122.465889
+    },
+    "8725520": {
+        "id": "8725520",
+        "name": "Fort Myers, FL",
+        "scn_name": "Fort Myers, FL",
+        "lat": 26.648,
+        "lon": -81.871
+    },
+    "8631044": {
+        "id": "8631044",
+        "name": "Wachapreague, VA",
+        "scn_name": "Wachapreague, VA",
+        "lat": 37.607778,
+        "lon": -75.685833
+    },
+    "9412110": {
+        "id": "9412110",
+        "name": "Port San Luis, CA",
+        "scn_name": "Port San Luis, CA",
+        "lat": 35.168806,
+        "lon": -120.754194
+    },
+    "8723970": {
+        "id": "8723970",
+        "name": "Vaca Key, FL",
+        "scn_name": "Vaca Key, FL",
+        "lat": 24.711,
+        "lon": -81.1065
+    },
+    "1890000": {
+        "id": "1890000",
+        "name": "Wake Island, Pacific Ocean",
+        "scn_name": "Wake Island",
+        "lat": 19.290556,
+        "lon": 166.6175
+    },
+    "8443970": {
+        "id": "8443970",
+        "name": "Boston, MA",
+        "scn_name": "Boston, MA",
+        "lat": 42.3539,
+        "lon": -71.05028
+    },
+    "8447930": {
+        "id": "8447930",
+        "name": "Woods Hole, MA",
+        "scn_name": "Woods Hole, MA",
+        "lat": 41.523613,
+        "lon": -70.671112
+    },
+    "9449880": {
+        "id": "9449880",
+        "name": "Friday Harbor, WA",
+        "scn_name": "Friday Harbor, WA",
+        "lat": 48.5467,
+        "lon": -123.010002
+    },
+    "8636580": {
+        "id": "8636580",
+        "name": "Windmill Point, VA",
+        "scn_name": "Windmill Point, VA",
+        "lat": 37.616111,
+        "lon": -76.29
+    },
+    "1612340": {
+        "id": "1612340",
+        "name": "Honolulu, HI",
+        "scn_name": "Honolulu, HI",
+        "lat": 21.306694,
+        "lon": -157.867
+    },
+    "8557380": {
+        "id": "8557380",
+        "name": "Lewes, DE",
+        "scn_name": "Lewes, DE",
+        "lat": 38.7817,
+        "lon": -75.120003
+    },
+    "9410170": {
+        "id": "9410170",
+        "name": "San Diego, CA",
+        "scn_name": "San Diego, CA",
+        "lat": 32.714194,
+        "lon": -117.173583
+    },
+    "8536110": {
+        "id": "8536110",
+        "name": "Cape May, NJ",
+        "scn_name": "Cape May, NJ",
+        "lat": 38.9683,
+        "lon": -74.959999
+    },
+    "8519483": {
+        "id": "8519483",
+        "name": "Bergen Point, NY",
+        "scn_name": "Bergen Point, NY",
+        "lat": 40.6391,
+        "lon": -74.146306
+    },
+    "1611400": {
+        "id": "1611400",
+        "name": "Nawiliwili, HI",
+        "scn_name": "Nawiliwili, HI",
+        "lat": 21.9544,
+        "lon": -159.3561
+    },
+    "9444090": {
+        "id": "9444090",
+        "name": "Port Angeles, WA",
+        "scn_name": "Port Angeles, WA",
+        "lat": 48.125,
+        "lon": -123.440002
+    },
+    "8410140": {
+        "id": "8410140",
+        "name": "Eastport, ME",
+        "scn_name": "Eastport, ME",
+        "lat": 44.904598,
+        "lon": -66.982903
+    },
+    "8452660": {
+        "id": "8452660",
+        "name": "Newport, RI",
+        "scn_name": "Newport, RI",
+        "lat": 41.504333,
+        "lon": -71.326139
+    },
+    "8577330": {
+        "id": "8577330",
+        "name": "Solomons Island, MD",
+        "scn_name": "Solomons Island, MD",
+        "lat": 38.317222,
+        "lon": -76.450833
+    },
+    "9463502": {
+        "id": "9463502",
+        "name": "Port Moller, AK",
+        "scn_name": "Port Moller, AK",
+        "lat": 55.985833,
+        "lon": -160.573611
+    },
+    "9431647": {
+        "id": "9431647",
+        "name": "Port Orford, CA",
+        "scn_name": "Port Orford, CA",
+        "lat": 42.738972,
+        "lon": -124.49828
+    },
+    "1617760": {
+        "id": "1617760",
+        "name": "Hilo, HI",
+        "scn_name": "Hilo, HI",
+        "lat": 19.73028,
+        "lon": -155.06
+    },
+    "8735180": {
+        "id": "8735180",
+        "name": "Dauphin Island, AL",
+        "scn_name": "Dauphin Island, AL",
+        "lat": 30.25,
+        "lon": -88.075
+    },
+    "8771450": {
+        "id": "8771450",
+        "name": "Galveston Pier 21, TX",
+        "scn_name": "Galveston Pier 21, TX",
+        "lat": 29.31,
+        "lon": -94.793306
+    },
+    "1630000": {
+        "id": "1630000",
+        "name": "Apra Harbor, Guam",
+        "scn_name": "Apra Harbor, Guam",
+        "lat": 13.44339,
+        "lon": 144.656361
+    },
+    "9449424": {
+        "id": "9449424",
+        "name": "Cherry Point, WA",
+        "scn_name": "Cherry Point, WA",
+        "lat": 48.8633,
+        "lon": -122.758
+    },
+    "9453220": {
+        "id": "9453220",
+        "name": "Yakutat, AK",
+        "scn_name": "Yakutat, AK",
+        "lat": 59.548333,
+        "lon": -139.733056
+    },
+    "8720030": {
+        "id": "8720030",
+        "name": "Fernandina Beach, FL",
+        "scn_name": "Fernandina Beach, FL",
+        "lat": 30.671389,
+        "lon": -81.465833
+    },
+    "1619910": {
+        "id": "1619910",
+        "name": "Sand Island, Midway Islands",
+        "scn_name": "Midway Island",
+        "lat": 28.2117,
+        "lon": -177.360028
+    },
+    "8658120": {
+        "id": "8658120",
+        "name": "Wilmington, NC",
+        "scn_name": "Wilmington, NC",
+        "lat": 34.2275,
+        "lon": -77.953611
+    },
+    "9452400": {
+        "id": "9452400",
+        "name": "Skagway, AK",
+        "scn_name": "Skagway, AK",
+        "lat": 59.4508,
+        "lon": -135.328
+    },
+    "8721604": {
+        "id": "8721604",
+        "name": "Trident Pier, FL",
+        "scn_name": "Trident Pier, FL",
+        "lat": 28.415833,
+        "lon": -80.593056
+    },
+    "8573364": {
+        "id": "8573364",
+        "name": "Tolchester Beach, MD",
+        "scn_name": "Tolchester Beach, MD",
+        "lat": 39.2134,
+        "lon": -76.244531
+    },
+    "9413450": {
+        "id": "9413450",
+        "name": "Monterey, CA",
+        "scn_name": "Monterey, CA",
+        "lat": 36.605,
+        "lon": -121.888054
+    },
+    "1820000": {
+        "id": "1820000",
+        "name": "Kwajalein, Marshall Islands",
+        "scn_name": "Kwajalein Island",
+        "lat": 8.7317,
+        "lon": 167.736115
+    },
+    "8729840": {
+        "id": "8729840",
+        "name": "Pensacola, FL",
+        "scn_name": "Pensacola, FL",
+        "lat": 30.404389,
+        "lon": -87.211194
+    },
+    "1617433": {
+        "id": "1617433",
+        "name": "Kawaihae, HI",
+        "scn_name": "Kawaihae, HI",
+        "lat": 20.0366,
+        "lon": -155.8294
+    },
+    "8779770": {
+        "id": "8779770",
+        "name": "Port Isabel, TX",
+        "scn_name": "Port Isabel, TX",
+        "lat": 26.061167,
+        "lon": -97.215528
+    },
+    "8661070": {
+        "id": "8661070",
+        "name": "Springmaid Pier, SC",
+        "scn_name": "Springmaid Pier, SC",
+        "lat": 33.655,
+        "lon": -78.918306
+    },
+    "9410230": {
+        "id": "9410230",
+        "name": "La Jolla, CA",
+        "scn_name": "La Jolla, CA",
+        "lat": 32.866889,
+        "lon": -117.257139
+    },
+    "8594900": {
+        "id": "8594900",
+        "name": "Washington, DC",
+        "scn_name": "Washington, DC",
+        "lat": 38.873,
+        "lon": -77.0217
+    },
+    "9450460": {
+        "id": "9450460",
+        "name": "Ketchikan, AK",
+        "scn_name": "Ketchikan, AK",
+        "lat": 55.331944,
+        "lon": -131.626111
+    },
+    "8461490": {
+        "id": "8461490",
+        "name": "New London, CT",
+        "scn_name": "New London, CT",
+        "lat": 41.3717,
+        "lon": -72.095525
+    },
+    "8418150": {
+        "id": "8418150",
+        "name": "Portland, ME",
+        "scn_name": "Portland, ME",
+        "lat": 43.65806,
+        "lon": -70.24417
+    },
+    "8638610": {
+        "id": "8638610",
+        "name": "Sewells Point, VA",
+        "scn_name": "Sewells Point, VA",
+        "lat": 36.946701,
+        "lon": -76.330002
+    },
+    "8531680": {
+        "id": "8531680",
+        "name": "Sandy Hook, NJ",
+        "scn_name": "Sandy Hook, NJ",
+        "lat": 40.466944,
+        "lon": -74.009444
+    },
+    "8574680": {
+        "id": "8574680",
+        "name": "Baltimore, MD",
+        "scn_name": "Baltimore, MD",
+        "lat": 39.266944,
+        "lon": -76.579444
+    },
+    "9419750": {
+        "id": "9419750",
+        "name": "Crescent City, CA",
+        "scn_name": "Crescent City, CA",
+        "lat": 41.74561,
+        "lon": -124.18439
+    },
+    "8729108": {
+        "id": "8729108",
+        "name": "Panama City, FL",
+        "scn_name": "Panama City, FL",
+        "lat": 30.15228,
+        "lon": -85.7
+    },
+    "8775870": {
+        "id": "8775870",
+        "name": "Corpus Christi, TX",
+        "scn_name": "Corpus Christi, TX",
+        "lat": 27.580833,
+        "lon": -97.216389
+    },
+    "9751401": {
+        "id": "9751401",
+        "name": "Lime Tree Bay, VI",
+        "scn_name": "Lime Tree Bay, VI",
+        "lat": 17.6947,
+        "lon": -64.753799
+    },
+    "9457292": {
+        "id": "9457292",
+        "name": "Kodiak Island, AK",
+        "scn_name": "Kodiak Island, AK",
+        "lat": 57.730278,
+        "lon": -152.513889
+    },
+    "9755371": {
+        "id": "9755371",
+        "name": "San Juan, PR",
+        "scn_name": "San Juan, PR",
+        "lat": 18.459167,
+        "lon": -66.116389
+    },
+    "8516945": {
+        "id": "8516945",
+        "name": "Kings Point, NY",
+        "scn_name": "Kings Point, NY",
+        "lat": 40.810306,
+        "lon": -73.765
+    },
+    "8467150": {
+        "id": "8467150",
+        "name": "Bridgeport, CT",
+        "scn_name": "Bridgeport, CT",
+        "lat": 41.173302,
+        "lon": -73.181702
+    },
+    "8726724": {
+        "id": "8726724",
+        "name": "Clearwater, FL",
+        "scn_name": "Clearwater, FL",
+        "lat": 27.978306,
+        "lon": -82.831694
+    },
+    "9410840": {
+        "id": "9410840",
+        "name": "Santa Monica, CA",
+        "scn_name": "Santa Monica, CA",
+        "lat": 34.0083,
+        "lon": -118.5
+    },
+    "9452210": {
+        "id": "9452210",
+        "name": "Juneau, AK",
+        "scn_name": "Juneau, AK",
+        "lat": 58.2988,
+        "lon": -134.4106
+    },
+    "8510560": {
+        "id": "8510560",
+        "name": "Montauk, NY",
+        "scn_name": "Montauk, NY",
+        "lat": 41.048333,
+        "lon": -71.959444
+    },
+    "8770613": {
+        "id": "8770613",
+        "name": "Morgans Point, TX",
+        "scn_name": "Morgans Point, TX",
+        "lat": 29.681667,
+        "lon": -94.985
+    },
+    "8771013": {
+        "id": "8771013",
+        "name": "Eagle Point, TX",
+        "scn_name": "Eagle Point, TX",
+        "lat": 29.48,
+        "lon": -94.918306
+    },
+    "8551910": {
+        "id": "8551910",
+        "name": "Reedy Point, DE",
+        "scn_name": "Reedy Point, DE",
+        "lat": 39.558333,
+        "lon": -75.571944
+    },
+    "9447130": {
+        "id": "9447130",
+        "name": "Seattle, WA",
+        "scn_name": "Seattle, WA",
+        "lat": 47.601944,
+        "lon": -122.339167
+    },
+    "9461380": {
+        "id": "9461380",
+        "name": "Adak Island, AK",
+        "scn_name": "Adak Island, AK ",
+        "lat": 51.8633,
+        "lon": -176.632004
+    },
+    "8729210": {
+        "id": "8729210",
+        "name": "Panama City Beach, FL",
+        "scn_name": "Panama City Beach, FL",
+        "lat": 30.213301,
+        "lon": -85.878304
+    },
+    "8518750": {
+        "id": "8518750",
+        "name": "The Battery, NY",
+        "scn_name": "The Battery, NY",
+        "lat": 40.700556,
+        "lon": -74.014167
+    },
+    "1770000": {
+        "id": "1770000",
+        "name": "Pago Pago, American Samoa",
+        "scn_name": "Pago Pago, American Samoa ",
+        "lat": -14.276667,
+        "lon": -170.689444
+    },
+    "8728690": {
+        "id": "8728690",
+        "name": "Apalachicola, FL",
+        "scn_name": "Apalachicola, FL",
+        "lat": 29.724444,
+        "lon": -84.980556
+    },
+    "8747437": {
+        "id": "8747437",
+        "name": "Bay Waveland, MS",
+        "scn_name": "Bay Waveland, MS",
+        "lat": 30.325,
+        "lon": -89.325
+    },
+    "8720218": {
+        "id": "8720218",
+        "name": "Mayport, FL",
+        "scn_name": "Mayport, FL",
+        "lat": 30.398167,
+        "lon": -81.427889
+    },
+    "8724580": {
+        "id": "8724580",
+        "name": "Key West, FL",
+        "scn_name": "Key West, FL",
+        "lat": 24.55083,
+        "lon": -81.80806
+    },
+    "9455920": {
+        "id": "9455920",
+        "name": "Anchorage, AK",
+        "scn_name": "Anchorage, AK",
+        "lat": 61.2375,
+        "lon": -149.8904
+    },
+    "8571892": {
+        "id": "8571892",
+        "name": "Cambridge, MD",
+        "scn_name": "Cambridge, MD",
+        "lat": 38.5725,
+        "lon": -76.061667
+    },
+    "9455500": {
+        "id": "9455500",
+        "name": "Seldovia, AK",
+        "scn_name": "Seldovia, AK",
+        "lat": 59.440498,
+        "lon": -151.719894
+    },
+    "8761724": {
+        "id": "8761724",
+        "name": "Grand Isle, LA",
+        "scn_name": "Grand Isle, LA",
+        "lat": 29.263,
+        "lon": -89.957
+    },
+    "8413320": {
+        "id": "8413320",
+        "name": "Bar Harbor, ME",
+        "scn_name": "Bar Harbor, ME",
+        "lat": 44.392194,
+        "lon": -68.204278
+    },
+    "9416841": {
+        "id": "9416841",
+        "name": "Arena Cove, CA",
+        "scn_name": "Arena Cove, CA",
+        "lat": 38.914556,
+        "lon": -123.711083
+    },
+    "8725110": {
+        "id": "8725110",
+        "name": "Naples, FL",
+        "scn_name": "Naples, FL",
+        "lat": 26.131667,
+        "lon": -81.8075
+    },
+    "9454240": {
+        "id": "9454240",
+        "name": "Valdez, AK",
+        "scn_name": "Valdez, AK",
+        "lat": 61.124194,
+        "lon": -146.3631
+    },
+    "9439040": {
+        "id": "9439040",
+        "name": "Astoria, OR",
+        "scn_name": "Astoria, OR",
+        "lat": 46.207306,
+        "lon": -123.768306
+    },
+    "9468756": {
+        "id": "9468756",
+        "name": "Nome, AK",
+        "scn_name": "Nome, AK",
+        "lat": 64.494611,
+        "lon": -165.439639
+    },
+    "9759110": {
+        "id": "9759110",
+        "name": "Magueyes Island, PR",
+        "scn_name": "Magueyes Island, PR",
+        "lat": 17.9701,
+        "lon": -67.04639
+    },
+    "8670870": {
+        "id": "8670870",
+        "name": "Fort Pulaski, GA",
+        "scn_name": "Fort Pulaski, GA",
+        "lat": 32.0367,
+        "lon": -80.9017
+    },
+    "8656483": {
+        "id": "8656483",
+        "name": "Beaufort, NC",
+        "scn_name": "Beaufort, NC",
+        "lat": 34.72,
+        "lon": -76.67
+    },
+    "9462620": {
+        "id": "9462620",
+        "name": "Unalaska, AK",
+        "scn_name": "Unalaska, AK",
+        "lat": 53.879194,
+        "lon": -166.540306
+    },
+    "8652587": {
+        "id": "8652587",
+        "name": "Oregon Inlet, NC",
+        "scn_name": "Oregon Inlet, NC ",
+        "lat": 35.795,
+        "lon": -75.54806
+    },
+    "9751639": {
+        "id": "9751639",
+        "name": "Charlotte Amalie, VI",
+        "scn_name": "Charlotte Amalie, VI",
+        "lat": 18.335833,
+        "lon": -64.92
+    },
+    "9432780": {
+        "id": "9432780",
+        "name": "Charleston, OR",
+        "scn_name": "Charleston, OR",
+        "lat": 43.345,
+        "lon": -124.322
+    },
+    "1612480": {
+        "id": "1612480",
+        "name": "Mokuoloe, HI",
+        "scn_name": "Mokuoloe, HI",
+        "lat": 21.433056,
+        "lon": -157.79
+    },
+    "8651370": {
+        "id": "8651370",
+        "name": "Duck, NC",
+        "scn_name": "Duck, NC",
+        "lat": 36.183306,
+        "lon": -75.746694
+    },
+    "8632200": {
+        "id": "8632200",
+        "name": "Kiptopeke, VA",
+        "scn_name": "Kiptopeke, VA",
+        "lat": 37.16519,
+        "lon": -75.988444
+    },
+    "8770570": {
+        "id": "8770570",
+        "name": "Sabine Pass, TX",
+        "scn_name": "Sabine Pass, TX",
+        "lat": 29.7284,
+        "lon": -93.8701
+    }
+}
